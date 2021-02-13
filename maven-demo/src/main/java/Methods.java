@@ -608,7 +608,7 @@ public class Methods {
 	//1. move all the elments to the right and keep incrementing counter on the basis of non zero elements
 	//2. Then campare the size of non zero elements and the orignal elemenst and add zerros at the end is 
 	// 2,0,9,0,5,0,1,5,0,5
- 
+    // trying to push from git command line
 	public void moveZerosToEnd(int arr[]) {
 		int size=arr.length;
 		int count =0;
@@ -637,6 +637,9 @@ public class Methods {
 	}
 }
 
+
+// stream equ to for loop
+// filter equavilent to if condition in for loop
 
 
 
